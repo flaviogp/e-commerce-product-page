@@ -42,8 +42,8 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
 
 <h2 align="center">Links</h2>
 
-<!-- - Solution URL: [Time tracking dashboard main (ReactJs) | Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-tailwind-css-javascript-Z0Z01zbyl6)
-- Live Site URL: [ Click here ](##) -->
+- Solution URL: [Time tracking dashboard main (ReactJs) | Frontend Mentor](https://www.frontendmentor.io/solutions/ecommerce-product-page-using-react-sass-and-typescript-FDgYbjk2s2)
+- Live Site URL: [ Click here ](https://stupendous-praline-f35dee.netlify.app/)
 
 <br>
 
@@ -77,13 +77,14 @@ Your users should be able to:
 
 ![](https://img.shields.io/badge/reactjs-23272F?style=for-the-badge&logo=react&logoColor=149ECA)
 
-
+- React
 - SASS
 - Semantic HTML5 markup
 - TypeScript
 
 ### Useful resources
 
+- [React](https://react.dev/learn)
 - [SASS](https://sass-lang.com/guide/)
 - [TypeScript](https://www.typescriptlang.org/docs/)
 
