@@ -1,5 +1,6 @@
 import { IProduct } from "../../../interfaces/interfaces";
-import data from '../../../data/data.json'
+// import data from '../../../data/data.json'
+import {Data} from '../../../data/data.ts'
 
 interface IProps{
     product: IProduct;
@@ -9,8 +10,8 @@ interface IProps{
 export default function CartProduct({product, removeProductToCart}: IProps){
 
     const productimage = (): string | undefined => {
-        const p = data.find(obj => obj.id === product.id);
-        return p?.productImages[0].imageThumbnailUrl;
+        const p = Data.productImages.find(obj => obj.id === product.id);
+        return p?.imageThumbnailUrl;
     }
 
     const handleClick = (product: IProduct): void => {

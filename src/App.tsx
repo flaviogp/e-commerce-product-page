@@ -4,7 +4,8 @@ import { Header } from './components/Header'
 import { Main } from './components/Main'
 import './sass/main.scss'
 
-import data from './data/data.json'
+// import data from './data/data.json'
+import {Data} from './data/data.ts'
 import {IProduct} from './interfaces/interfaces'
 
 function App() {
@@ -25,7 +26,7 @@ const [products, setProducts] = useState([] as IProduct[]);
   return (
     <div className="app">
       <Header products={products} removeProductToCart={removeProductToCart}/> 
-      <Main data={data[0]} addProductToCart={addProductToCart}/> {/* Sorry for hard coding, i just have one iten in array data */}
+      <Main data={Data} addProductToCart={addProductToCart}/> {/* Sorry for hard coding, i just have one iten in array data */}
     </div>
   )
 }
