@@ -9,7 +9,7 @@
             {
                 "id": 1,
                 "imageUrl": "./src/assets/images/image-product-1.jpg",
-                "imageThumbnailUrl": "./src/assets/images/image-product-1-thumbnail.jpg"          
+                "imageThumbnailUrl": "./src/assets/images/image-product-1-thumbnail.jpg"       
             },
             {
                 "id": 2,

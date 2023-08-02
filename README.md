@@ -9,11 +9,11 @@
     <a href="https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <!-- <a href="https://article-preview-component-hdez.vercel.app/">View Demo</a>
+    <a href="https://stupendous-praline-f35dee.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/MelvinAguilar/article-preview-component/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/flaviogp/e-commerce-product-page/issues" target="_blank">Report Bug</a>
     ·
-    <a href="https://github.com/MelvinAguilar/article-preview-component/issues" target="_blank">Request Feature</a> -->
+    <a href="https://github.com/flaviogp/e-commerce-product-page/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -80,10 +80,12 @@ Your users should be able to:
 
 - SASS
 - Semantic HTML5 markup
+- TypeScript
 
 ### Useful resources
 
 - [SASS](https://sass-lang.com/guide/)
+- [TypeScript](https://www.typescriptlang.org/docs/)
 
 ## Author
 

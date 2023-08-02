@@ -11,7 +11,7 @@ interface Iprops{
 }
 
 export function Main({data, addProductToCart}: Iprops) {
-    const [lightBox, setLightBox] = useState(true);
+    const [lightBox, setLightBox] = useState(false);
 
     return (
         <main>
