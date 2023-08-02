@@ -42,7 +42,7 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Time tracking dashboard main (ReactJs) | Frontend Mentor](https://www.frontendmentor.io/solutions/ecommerce-product-page-using-react-sass-and-typescript-FDgYbjk2s2)
+- Solution URL: [E-commerce product page(ReactJs/TypeScript) | Frontend Mentor](https://www.frontendmentor.io/solutions/ecommerce-product-page-using-react-sass-and-typescript-FDgYbjk2s2)
 - Live Site URL: [ Click here ](https://stupendous-praline-f35dee.netlify.app/)
 
 <br>
